@@ -1,0 +1,10 @@
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\bin\Debug\netcoreapp2.1\Opdracht3.deps.json
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\bin\Debug\netcoreapp2.1\Opdracht3.runtimeconfig.json
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\bin\Debug\netcoreapp2.1\Opdracht3.runtimeconfig.dev.json
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\bin\Debug\netcoreapp2.1\Opdracht3.dll
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\bin\Debug\netcoreapp2.1\Opdracht3.pdb
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\obj\Debug\netcoreapp2.1\Opdracht3.csproj.CoreCompileInputs.cache
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\obj\Debug\netcoreapp2.1\Opdracht3.AssemblyInfoInputs.cache
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\obj\Debug\netcoreapp2.1\Opdracht3.AssemblyInfo.cs
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\obj\Debug\netcoreapp2.1\Opdracht3.dll
+C:\Users\owenv\Desktop\Sync\Rpi\01-Programeren\week1\IntroductielesProgrammeren1\Opdracht3\obj\Debug\netcoreapp2.1\Opdracht3.pdb

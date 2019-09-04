@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
+        "projectName": "Opdracht1",
+        "projectPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
+        "packagesPath": "C:\\Users\\owenv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\owenv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
