@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht@\\Opdracht2.csproj": {}
+    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht2\\Opdracht2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht@\\Opdracht2.csproj": {
+    "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht2\\Opdracht2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht@\\Opdracht2.csproj",
+        "projectUniqueName": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht2\\Opdracht2.csproj",
         "projectName": "Opdracht2",
-        "projectPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht@\\Opdracht2.csproj",
+        "projectPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht2\\Opdracht2.csproj",
         "packagesPath": "C:\\Users\\owenv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht@\\obj\\",
+        "outputPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week2\\ProgrammerenWeek2\\Opdracht2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

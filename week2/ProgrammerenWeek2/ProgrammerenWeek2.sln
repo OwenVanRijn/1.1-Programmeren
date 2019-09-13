@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht1", "Opdracht1\Opdracht1.csproj", "{E879BC96-A8E7-402A-BBF2-EA90971E591C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht2", "Opdracht@\Opdracht2.csproj", "{7C0E61F5-DC12-4A21-81C7-80D6BBB55DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht2", "Opdracht2\Opdracht2.csproj", "{7C0E61F5-DC12-4A21-81C7-80D6BBB55DA0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opdracht3", "Opdracht3\Opdracht3.csproj", "{1EBAB142-7A48-46A2-A60B-880862958252}"
 EndProject
