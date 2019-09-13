@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
+      "projectUniqueName": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
       "projectName": "Opdracht1",
-      "projectPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
+      "projectPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\Opdracht1.csproj",
       "packagesPath": "C:\\Users\\owenv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\01-Programeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\obj\\",
+      "outputPath": "C:\\Users\\owenv\\Desktop\\Sync\\Rpi\\Periode 1\\1.1-Programmeren\\week1\\IntroductielesProgrammeren1\\Opdracht1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
