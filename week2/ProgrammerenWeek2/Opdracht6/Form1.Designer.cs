@@ -72,12 +72,14 @@
             // 
             // lbl_time
             // 
+            this.lbl_time.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbl_time.AutoSize = true;
             this.lbl_time.Location = new System.Drawing.Point(451, 93);
             this.lbl_time.Name = "lbl_time";
             this.lbl_time.Size = new System.Drawing.Size(64, 17);
             this.lbl_time.TabIndex = 4;
             this.lbl_time.Text = "00:00:00";
+            this.lbl_time.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // Form1
             // 

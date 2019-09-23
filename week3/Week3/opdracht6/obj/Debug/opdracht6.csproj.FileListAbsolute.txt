@@ -1,0 +1,7 @@
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\bin\Debug\opdracht6.exe.config
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\bin\Debug\opdracht6.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\bin\Debug\opdracht6.pdb
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\obj\Debug\opdracht6.csprojAssemblyReference.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\obj\Debug\opdracht6.csproj.CoreCompileInputs.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\obj\Debug\opdracht6.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht6\obj\Debug\opdracht6.pdb

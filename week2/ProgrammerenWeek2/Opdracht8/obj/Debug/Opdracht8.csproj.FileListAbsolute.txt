@@ -1,0 +1,20 @@
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.exe.config
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.pdb
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csprojAssemblyReference.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.Form1.resources
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.Properties.Resources.resources
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csproj.GenerateResource.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csproj.CoreCompileInputs.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.pdb
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.exe.config
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.exe
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\bin\Debug\Opdracht8.pdb
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csprojAssemblyReference.cache
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.Form1.resources
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.Properties.Resources.resources
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csproj.GenerateResource.cache
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.csproj.CoreCompileInputs.cache
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.exe
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week2\ProgrammerenWeek2\Opdracht8\obj\Debug\Opdracht8.pdb
