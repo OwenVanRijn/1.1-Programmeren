@@ -8,7 +8,7 @@ namespace opdracht7
 {
     class Program
     {
-        static double calc_bmi(bool man, double lengte, double gewicht)
+        static double calc_bmi(double lengte, double gewicht)
         {
             double bmi;
 
@@ -20,8 +20,8 @@ namespace opdracht7
         static void Main(string[] args)
         {
             bool man;
-            string temp;
-            double lengte, gewicht, BMI;
+            string temp, output;
+            double lengte, gewicht, gezond_gewicht_leftbound, gezond_gewicht_rightbound, BMI, gewichtgezond1, gewichtgezond2;
 
             Console.Write("Geef uw sekse (M/V): ");
             temp = Console.ReadLine();
@@ -38,15 +38,24 @@ namespace opdracht7
             temp = Console.ReadLine();
             lengte = double.Parse(temp);
 
-            BMI = calc_bmi(man, lengte, gewicht);
+            BMI = calc_bmi(lengte, gewicht); 
 
-            switch (man)
+            if (man)
             {
-                case true:
-                    break;
-                case false:
-                    break;
+                gezond_gewicht_leftbound = 20;
+                gezond_gewicht_rightbound = 25;
             }
+            else
+            {
+                gezond_gewicht_leftbound = 19;
+                gezond_gewicht_rightbound = 24;
+            }
+
+            gewichtgezond1 = gezond_gewicht_leftbound * Math.Pow((lengte / 100), 2);
+            gewichtgezond2 = gezond_gewicht_rightbound * Math.Pow((lengte / 100), 2);
+
+            output = String.Format("BMI: {0:00.00}\nGezonde BMI: {1} tot {2}\nGezond gewicht tussen {3} en {4} kg", BMI, gezond_gewicht_leftbound, gezond_gewicht_rightbound, gewichtgezond1, gewichtgezond2);
+            Console.WriteLine("\n{0}", output);
 
             Console.ReadKey();
         }

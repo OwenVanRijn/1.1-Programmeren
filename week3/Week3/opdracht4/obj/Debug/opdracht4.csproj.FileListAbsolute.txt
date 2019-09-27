@@ -4,3 +4,10 @@ C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4
 C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.csproj.CoreCompileInputs.cache
 C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.exe
 C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.pdb
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\bin\Debug\opdracht4.exe.config
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\bin\Debug\opdracht4.exe
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\bin\Debug\opdracht4.pdb
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.csprojAssemblyReference.cache
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.csproj.CoreCompileInputs.cache
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.exe
+C:\Users\Owen van Rijn\Desktop\Sync\RPi\Periode 1\1.1-Programmeren\week3\Week3\opdracht4\obj\Debug\opdracht4.pdb

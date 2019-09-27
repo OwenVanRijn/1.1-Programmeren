@@ -26,17 +26,15 @@ namespace opdracht4
             temp = Console.ReadLine();
             getal3 = double.Parse(temp);
 
-            if (getal1 > grootste)
-                grootste = getal1;
+            grootste = getal1;
+
             if (getal2 > grootste)
                 grootste = getal2;
             if (getal3 > grootste)
                 grootste = getal3;
 
-            kleinste = grootste;
+            kleinste = getal1;   
 
-            if (getal1 < kleinste)
-                kleinste = getal1;
             if (getal2 < kleinste)
                 kleinste = getal2;
             if (getal3 < kleinste)

@@ -1,0 +1,10 @@
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\bin\Debug\opdracht9.exe.config
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\bin\Debug\opdracht9.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\bin\Debug\opdracht9.pdb
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.csprojAssemblyReference.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.Form1.resources
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.Properties.Resources.resources
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.csproj.GenerateResource.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.csproj.CoreCompileInputs.cache
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.exe
+C:\Users\owenv\Desktop\Sync\Rpi\Periode 1\1.1-Programmeren\week3\Week3\opdracht9\obj\Debug\opdracht9.pdb
