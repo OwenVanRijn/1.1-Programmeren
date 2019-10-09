@@ -27,7 +27,7 @@ namespace opdracht7
             temp = Console.ReadLine();
 
             man = true;
-            if (temp == "V" || temp == "v")
+            if (temp.ToLower() == "v")
                 man = false;
 
             Console.Write("Geef uw gewicht in kg: ");
