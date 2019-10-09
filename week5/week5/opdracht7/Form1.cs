@@ -22,13 +22,13 @@ namespace opdracht7
             int[] dobbel = new int[6];
             Random rnd = new Random();
 
-            for (int i = 0; i < 6; i++)
+            for (int i = 0; i < dobbel.Length; i++)
                 dobbel[i] = 0;
 
             for (int i = 0; i < 6000; i++)
                 dobbel[rnd.Next(0, 6)]++;
 
-            for (int i = 1; i <= 6; i++)
+            for (int i = 1; i <= dobbel.Length; i++)
             {
                 Control currentLabel = Controls["label" + i];
                 currentLabel.Text = $"Waarde {i} is {dobbel[i - 1]} keer gegooid";

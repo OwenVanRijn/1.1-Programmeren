@@ -24,7 +24,7 @@ namespace opdracht6
                     currentLabel.Text = "-";
                 }
             else 
-                for (int i = 1; i <= 20; i++)
+                for (int i = 1; i <= cijfers.Length; i++)
                 {
                     Control currentLabel = Controls["label" + (i + offset)];
                     currentLabel.Text = $"Element {i - 1} = {cijfers[i - 1]}";
@@ -42,7 +42,7 @@ namespace opdracht6
 
             writetolabels(0, true);
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < cijfers.Length; i++)
                 cijfers[i] = rnd.Next(500);
 
             writetolabels(0, false);
@@ -54,7 +54,7 @@ namespace opdracht6
 
             vergelijk = int.Parse(user_vergelijk.Text);
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < cijfers.Length; i++)
             {
                 if (cijfers[i] >= vergelijk)
                     cijfers[i] += 10;

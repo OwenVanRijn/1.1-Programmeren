@@ -13,7 +13,7 @@ namespace opdracht4
             int[] cijfers = new int[20];
             int zoek, aantal = 0, invoer, i;
 
-            for (i = 0; i < 20; i++)
+            for (i = 0; i < cijfers.Length; i++)
             {
                 Console.Write("Geef een getal (0=stop): ");
                 invoer = int.Parse(Console.ReadLine());
